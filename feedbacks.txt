@@ -1,0 +1,16 @@
+1.BEM Class naming ni o'rganish
+2.h1 tag ni to'g'ri ishlatish 
+// 3.Visually hiddenni o'rganish (css, html)
+4.div va span tag larini to'liq o'rganish va ularni to'g'ri ishlatish
+5.Image tag ni alt lari va width height lari nima uchun kerakligini o'rganish va ularni to'g'ri ishlatish
+6.HTML semantic sini o'rganish va to'g'ri ishlatish
+7.Class nomlanishlarini to'g'irlash
+8.Fayl nomlarini to'g'ri (tushunarli) nomlash
+
+Ushbu taglar va ularni farqlarini o'rganish
+i, em, b, bold, del, s, dd, dt
+
+Shu saytlarni ko'rib chiqish
+https://caninclude.glitch.me/
+https://validator.w3.org/
+https://getbem.com/naming/
